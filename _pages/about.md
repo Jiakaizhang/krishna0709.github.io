@@ -11,7 +11,7 @@ I am an Assistant Professor in the department of [Electrical Engineering](https:
 
 My research interest focuses on human factors and their impacts on cybersecurity, cyber-psychological assessment in cyber threat detection, and intelligent transportation system security. My research interest also includes AI security, computer vision, micro-expression analysis and intelligent sound synthesis. 
 
-## Research Areas/Interests
+## Research Areas/Interests 
 
 * Machine Learning/ Deep Learning
 * AI in Cyber Security
@@ -20,6 +20,7 @@ My research interest focuses on human factors and their impacts on cybersecurity
 * Driver and Driving Behavior Analysis for Vehicle Cyber Attack Detection
 * Security of Autonomous Vehicles
 * Intelligent Sound Synthesis
+* AI Security
 
 Find my updated [CV](http://krishna0709.github.io/files/CV_Krishna_Roy.pdf).
 
